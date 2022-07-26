@@ -1,3 +1,6 @@
+!!! This is a desktop only project !!!
+Responsive design is currently in process.
+
 # Frontend Mentor - Sunnyside agency landing page
 
 ![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)
